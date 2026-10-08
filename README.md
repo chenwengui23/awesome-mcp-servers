@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- **[Wanjige](https://github.com/chenwengui23/wanjige-mcp)** - A Chinese AI tool marketplace that puts **15,552 real, callable tools** behind a single MCP server: China weather / POI / driving routes, A-share / HK / US stock quotes, 930 FX pairs, arXiv / PubMed / World Bank research, PDF / Word / Excel parsing, Chinese TTS voice-over, AI image & image-to-video generation, and deterministic calculators (income tax, mortgage, units, hashes). Progressive disclosure keeps the client context small (34 curated tools up front, `qj_search_tools` for the long tail). Connect remotely at `https://qianjige.app.workbuddy.host/mcp?key={api_key}` (free registration includes 1,000 credits) or locally via `npx -y wanjige-mcp`.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
